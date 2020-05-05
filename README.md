@@ -4,6 +4,8 @@ This repo builds on the [r binder](https://github.com/binder-examples/r) and [ju
 
  - Launch in Jupyter Lab: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/astrobiomike/r_with_python/master?urlpath=lab)
  - Launch opening "python_example_for_Jupyter.ipynb": [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/astrobiomike/r_with_python/master?urlpath=lab/tree/python_example_for_Jupyter.ipynb)
+ - Launch opening "R_example_for_Jupyter.ipynb": [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/astrobiomike/r_with_python/master?urlpath=lab/tree/r_example_for_Jupyter.ipynb)
+
 - Launch in RStudio: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/astrobiomike/r_with_python/master?urlpath=rstudio)
 
 
